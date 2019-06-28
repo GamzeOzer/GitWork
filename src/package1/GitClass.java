@@ -8,7 +8,8 @@ public class GitClass {
 
 		System.out.println("This is second hello from Gamze");
 		System.out.println("this is third hello from");
-		
+		System.out.println("this is third hello from Mustafa");
+		System.out.println("this is forth hello from Mustafa");
 
 	}
 }
